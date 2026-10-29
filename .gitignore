@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.tsbuildinfo
+test-results/
+playwright-report/
+
+# Generated recordings, exports, and local smoke-test output
+live-test-results.json
+recordings/
+exports/
+*.wav
+*.flac
+*.aiff
+*.mp3
